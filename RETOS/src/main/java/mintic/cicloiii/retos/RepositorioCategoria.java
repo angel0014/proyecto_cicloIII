@@ -1,4 +1,4 @@
-package mintic.cicloiii.reto3;
+package mintic.cicloiii.retos;
 
 import org.springframework.stereotype.Repository;
 import java.util.List;

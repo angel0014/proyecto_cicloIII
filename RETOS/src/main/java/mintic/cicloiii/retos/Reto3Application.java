@@ -1,4 +1,4 @@
-package mintic.cicloiii.reto3;
+package mintic.cicloiii.retos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

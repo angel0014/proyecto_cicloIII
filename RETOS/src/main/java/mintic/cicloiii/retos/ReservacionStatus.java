@@ -1,4 +1,4 @@
-package mintic.cicloiii.reto3;
+package mintic.cicloiii.retos;
 
 public class ReservacionStatus {
     private Integer completed;
