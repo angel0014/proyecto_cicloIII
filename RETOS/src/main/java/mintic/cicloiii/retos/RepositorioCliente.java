@@ -17,11 +17,11 @@ public class RepositorioCliente {
         return crud1.findById(id);
 
     }
-    public Cliente save(Cliente cliente){
-        return crud1.save(cliente);
+    public Cliente save(Cliente client){
+        return crud1.save(client);
     }
-    public void delete (Cliente cliente){
-        crud1.delete(cliente);
+    public void delete (Cliente client){
+        crud1.delete(client);
 
     }
 

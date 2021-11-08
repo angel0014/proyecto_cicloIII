@@ -28,7 +28,7 @@ public class ControladorCliente {
     }
 
     @GetMapping("/{id")
-    public Optional<Cliente> getClient(@PathVariable("id") int idClient){
+    public Optional<Cliente> getCliente(@PathVariable("id") int idClient){
         return servicio.getClient(idClient);
     }
 

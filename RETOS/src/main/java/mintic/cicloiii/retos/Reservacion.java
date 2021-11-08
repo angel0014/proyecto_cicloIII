@@ -83,6 +83,7 @@ public class Reservacion implements Serializable{
     public void setScore(String score) {
         this.score = score;
     }
+
     
     
 }

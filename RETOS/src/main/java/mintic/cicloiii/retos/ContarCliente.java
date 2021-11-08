@@ -2,11 +2,11 @@ package mintic.cicloiii.retos;
 
 public class ContarCliente {
     private Long total;
-    private Cliente cliente;
+    private Cliente client;
 
-    public ContarCliente(Long total, Cliente cliente) {
+    public ContarCliente(Long total, Cliente client) {
         this.total = total;
-        this.cliente = cliente;
+        this.client = client;
     }
 
     public Long getTotal() {
@@ -17,13 +17,15 @@ public class ContarCliente {
         this.total = total;
     }
 
-    public Cliente getCliente() {
-        return cliente;
+    public Cliente getClient() {
+        return client;
     }
 
-    public void setCliente(Cliente cliente) {
-        this.cliente = cliente;
+    public void setClient(Cliente client) {
+        this.client = client;
     }
+
+
 
     
 }
