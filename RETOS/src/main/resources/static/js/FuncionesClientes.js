@@ -14,7 +14,7 @@ function autoInicioCliente() {
         }
 
     })
-
+    
 }
 
 function consultarClientId(idElemento) {
@@ -47,6 +47,7 @@ function consultarClientId(idElemento) {
             },
         }
     );
+    
 }
 
 function pintarRespuesta2(respuesta) {
